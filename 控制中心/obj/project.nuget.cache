@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Szny/zo+tRDFWkCJBKyT4eoy22J7aBxRdwFsiHSrPejRYaJLSh88XFhWthEX3koyR4ss1FZ05EF7ENwYa+13cg==",
+  "dgSpecHash": "pQj7KUJWwR4b6muOiGCoEZoE0iLiIyic2JXxIwlP7s1KOlvYkdVbzXgkfk0aDvpqS8ZSLNnX1YgMrNILAqxRXA==",
   "success": true,
   "projectFilePath": "F:\\gitProject\\Computer_Networdk_Project\\控制中心\\控制中心.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sunmingqi\\.nuget\\packages\\sunnyui\\3.3.5\\sunnyui.3.3.5.nupkg.sha512",
+    "C:\\Users\\sunmingqi\\.nuget\\packages\\sunnyui.common\\3.3.2\\sunnyui.common.3.3.2.nupkg.sha512"
+  ],
   "logs": []
 }
